@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# vuerace
-horse racing
-=======
 # 🏇 Horse Racing Simulator
 
 This project is a **horse racing simulator** developed using **Vue.js** and **Pinia**. Players can generate a **6-round racing program**, where randomly created horses compete across **various distances**. The race can be watched in real-time, with animated horse movement and a leaderboard updating dynamically.
@@ -65,4 +61,3 @@ This project is a **horse racing simulator** developed using **Vue.js** and **Pi
 13. [ ] ┣ 📜 main.ts              → Application entry point
 14. [ ] ┣ 📜 constants.ts         → Constants (race distances, statuses, etc.)
 15. [ ] ┗ 📜 vite.config.ts       → Vite configuration file
->>>>>>> 5a69da9 (first commit)
